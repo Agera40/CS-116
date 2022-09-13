@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     
-    // Assigment 1 Part 1 by Jian 09/06/2022 //
+    // Assigment 1 Part 1 by Agera 09/06/2022 //
     
     /*
     Write a C++ Program that reads in 2 integers and then outputs their sum, product, 
