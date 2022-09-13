@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-    // Assigment 1 Part 3 by Jian 09/06/2022 //
+    // Assigment 1 Part 3 by Agera 09/06/2022 //
 
     /* 
     Write a program that allows the user to enter time in seconds and outputs how far an 
