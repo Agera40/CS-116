@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     
-    // Assigment 1 Part 2 by Jian 9/06/2022 //
+    // Assigment 1 Part 2 by Agera 9/06/2022 //
 
     /*
     Write a program that allows the user to enter number of quarters, dimes and nickels and 
