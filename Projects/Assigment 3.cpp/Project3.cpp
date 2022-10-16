@@ -1,4 +1,4 @@
-// Assigment 4 by Jian 10/15/2022//
+// Assigment 4 by Agera 10/15/2022//
 
 /*
 1. implement function named reverse which takes one string parameter and returns
